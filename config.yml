@@ -74,7 +74,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Welcome!"
-    Content: Hey there! I'm Abhi, and these are some of my thoughts on AI.  
+    Content: Hey there! I'm Abhi, and these are some of my thoughts on AI, space, and other frontier tech.  
 
   socialIcons:
     - name: x 
